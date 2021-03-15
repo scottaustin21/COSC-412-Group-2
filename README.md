@@ -76,7 +76,7 @@
 *4.2 Software Documentation*
 - TBD
 
-### Work Packages, Schedule, and Budget
+### 5. Work Packages, Schedule, and Budget
 
 *5.1 Work Packages*
 - Package 1: Finishing Game
@@ -97,5 +97,5 @@
 *5.5 Schedule*
 - TBD
 
-### Additional Components
+### 6. Additional Components
 - TBD
