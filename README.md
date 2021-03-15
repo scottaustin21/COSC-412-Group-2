@@ -16,7 +16,7 @@
   - Project may diverge from a sole web application towards a more mobile-based format to account for user location
   
 *1.4 Reference Materials*
-  - SPMP Template: via [calpoly](!http://users.csc.calpoly.edu/~jdalbey/205/Mgmt/SPMP) 
+  - SPMP Template: via [calpoly](http://users.csc.calpoly.edu/~jdalbey/205/Mgmt/SPMP) 
   
 *1.5 Definitions and Acronyms*
 - SPMP: Software Project Management Plan
