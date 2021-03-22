@@ -64,6 +64,7 @@
 - Delano Powell - Team Member
 - Quincy Pyles - Team Member
 - Austin Scott - Team Member
+- Anil Gurung - Team Member
 - Justin Stephenson - Team Member
 
 ### 4. Technical Process
