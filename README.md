@@ -73,6 +73,7 @@
 - Source Code Control - Github
 - IDE: TBD
 - Time-Accounting: ClickUp (Gantt Software Site)
+- Domain Hosting: Namecheap
 
 *4.2 Software Documentation*
 - TBD
