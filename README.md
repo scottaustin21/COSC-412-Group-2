@@ -22,7 +22,6 @@
 - SPMP: Software Project Management Plan
 - API: Application Programming Interface
 - SME: Subject Matter Experts
-- Unity: “Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Inc.'s Worldwide Developers Conference as a Mac OS X-exclusive game engine” - Wikipedia
 - DOE: Department of Education
 
 ### 2. Project Organization
@@ -30,8 +29,7 @@
 *2.1 Process Model*
 - Lifecycle Model: Agile Development
 - Major Milestones: 
-  - SPMP - Date: 3/31 
-  - TBD
+  - SPMP - Date: 3/31
   
 *2.2 Organizational Structure*
 - All teammates working in tandem, overseen by course instructor
@@ -45,22 +43,27 @@
 ### 3. Managerial Process
 
 *3.1 Management Objectives and Priorities*
-- TBD
+- Objectives:
+	- Having meetings at a semi-weekly pace in order to drive project's completion
+	- Providing teammates with adequate support when completing their tasks
+- Priorities:
+	- Successful completion of site. (working link to site, proper functionality, etc.)
 
-*3.2 Assumptions, Dependencies, and Constraints*
-- TBD
-
-*3.3 Risk Management*
+*3.2 Risk Management*
 - Risk Manager: Group Actively rotates in this role
 - Risks:
-  - Server Failure: We will implement redundancies to mitigate a server failure
-  - Securing User Data: To protect user data, we will implement proper safeguards against breaches to the user data stored
-  
-*3.4 Monitoring and Controlling Mechanisms*
+  - Server Failure: Conducting multiple backups across the lifespan of the website in order to have a failsafe in the event of server failure.
+  - Securing User Data: To protect user data, we will implement proper safeguards against breaches to the user data stored by using reputable services to house them
+	  - i.e. MySql DB handled by PHP MYAdmin
+   
+*3.3 Monitoring and Controlling Mechanisms*
 - Bi-Weekly Group Meetings:
-  - They will be held on zoom and google drive will be used to visualize and monetize project.
+  - They will be held on zoom and discord for teammates to meet up and work on project.
+ - File Management
+	 - Google Drive will be used to store collaborative files
+	 - GitHub will be used to as the storage of necessary deliverables and files
   
-*3.5 Staffing Plan*
+*3.4 Staffing Plan*
 - Delano Powell - Team Member
 - Quincy Pyles - Team Member
 - Austin Scott - Team Member
@@ -70,34 +73,33 @@
 ### 4. Technical Process
 
 *4.1 Methods, Tools, and Techniques*
-- Source Code Control - Github
-- IDE: TBD
 - Time-Accounting: ClickUp (Gantt Software Site)
 - Domain Hosting: Namecheap
-
-*4.2 Software Documentation*
-- TBD
+- Wordpress
+- Wordpress Plugins: 
+	-  Buddyforms
+	- Ultimate Member
+	- WooCommerce
+	- WooCommerce Stripe Gateway
+	- WPGoogleMaps
+	- Typeform
+	- BuddyForms UltimateMember
+	- WebFlow Pages 
+	- UserSubmitted Post
+	- Ultimate Member Online
 
 ### 5. Work Packages, Schedule, and Budget
 
 *5.1 Work Packages*
-- Package 1: Finishing Game
-- Task List: TBD
+- Package 1: Determining, and Finishing Game
+	- Creation of quiz game using Typeform service
 - Package 2: Finishing Website
-- Task List: TBD
+	- Creating and Completing front-end of site through Wordpress
+	- Implementing plugins seamlessly 
 
 *5.2 Dependencies*
 - Dependency 1:
-  - There is a co-dependency between the actual website and the game to be embedded. For the final delivery of the software to meet customer requirements, they must both be properly integrated into one another
+  - There is a co-dependency between the actual website, the game to be embedded, and the plugins used as well. For the final delivery of the software to meet customer requirements, they must all be properly integrated into one another
 
-*5.3 Resource Requirements*
-- TBD
 
-*5.4 Budget and Resource Allocation*
-- TBD
 
-*5.5 Schedule*
-- TBD
-
-### 6. Additional Components
-- TBD
